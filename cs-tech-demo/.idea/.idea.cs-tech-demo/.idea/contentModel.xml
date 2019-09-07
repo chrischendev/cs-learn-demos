@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chris\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\chris\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_cs-tech-demo.1758924861.00" t="ExcludeRecursive" />
+    <e p="F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo" t="IncludeFlat">
+      <e p="cs-tech-demo" t="IncludeRecursive">
+        <e p="attributes" t="Include">
+          <e p="MyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cs-tech-demo.csproj" t="IncludeRecursive" />
+        <e p="models" t="Include">
+          <e p="PageData.cs" t="Include" />
+          <e p="UserModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="tech" t="Include">
+          <e p="AttributeTest.cs" t="Include" />
+          <e p="GenericTest.cs" t="Include" />
+          <e p="ReflectionTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cs-tech-demo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

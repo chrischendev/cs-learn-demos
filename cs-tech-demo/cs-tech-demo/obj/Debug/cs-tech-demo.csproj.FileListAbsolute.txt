@@ -1,0 +1,6 @@
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\bin\Debug\cs_tech_demo.exe
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\bin\Debug\cs_tech_demo.pdb
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\obj\Debug\cs-tech-demo.csprojAssemblyReference.cache
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\obj\Debug\cs-tech-demo.csproj.CoreCompileInputs.cache
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\obj\Debug\cs_tech_demo.exe
+F:\Workspace\CSharper\cs-learn-demos\cs-tech-demo\cs-tech-demo\obj\Debug\cs_tech_demo.pdb
