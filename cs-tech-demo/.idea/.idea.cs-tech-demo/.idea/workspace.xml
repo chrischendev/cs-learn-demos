@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd6be6a5-87c7-499b-b568-50ff2626cff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cs-tech-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/attributes/MyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/models/PageData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/models/UserModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/tech/AttributeTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/tech/GenericTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs-tech-demo/tech/ReflectionTest.cs" afterDir="false" />
-    </list>
+    <list default="true" id="bd6be6a5-87c7-499b-b568-50ff2626cff0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs-tech-demo/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="168">
               <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding>
                 <marker date="1567886638907" expanded="true" signature="48:275" ph="{...}" />
@@ -33,10 +25,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cs-tech-demo/tech/ReflectionTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-215">
+            <state relative-caret-position="21">
               <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
               <folding>
                 <marker date="1567886011708" expanded="false" signature="6:99" ph="..." />
@@ -71,19 +63,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs-tech-demo/tech/AttributeTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-341">
+            <state relative-caret-position="-27">
               <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding>
-                <marker date="1567888930409" expanded="true" signature="6:96" ph="..." />
+                <marker date="1567888930409" expanded="false" signature="6:96" ph="..." />
                 <marker date="1567888930409" expanded="true" signature="98:113" ph="/* 特性测试 ... */" />
                 <marker date="1567888930409" expanded="true" signature="141:2050" ph="{...}" />
                 <marker date="1567888930409" expanded="true" signature="174:1455" ph="{...}" />
                 <marker date="1567888930409" expanded="true" signature="218:260" ph="{...}" />
-                <marker date="1567888930409" expanded="true" signature="270:303" ph="/* ... */" />
+                <marker date="1567888930409" expanded="true" signature="270:303" ph="/* 测试失效特性 ... */" />
                 <marker date="1567888930409" expanded="true" signature="340:467" ph="{...}" />
-                <marker date="1567888930409" expanded="true" signature="477:511" ph="/* ... */" />
+                <marker date="1567888930409" expanded="true" signature="477:511" ph="/* 测试自定义特性 ... */" />
                 <marker date="1567888930409" expanded="true" signature="548:1449" ph="{...}" />
-                <marker date="1567888930409" expanded="true" signature="1461:1486" ph="/* ... */" />
+                <marker date="1567888930409" expanded="true" signature="1461:1486" ph="/* 应用特性的类 ... */" />
                 <marker date="1567888930409" expanded="true" signature="1504:2048" ph="{...}" />
                 <marker date="1567888930409" expanded="true" signature="1592:1612" ph="{...}" />
                 <marker date="1567888930409" expanded="true" signature="1652:1708" ph="{...}" />
@@ -98,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs-tech-demo/attributes/MyInfo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="567">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
               <folding>
                 <marker date="1567888887556" expanded="true" signature="15:31" ph="/* 自定义特性 ... */" />
                 <marker date="1567888887556" expanded="true" signature="66:704" ph="{...}" />
@@ -114,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs-tech-demo/models/UserModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="99">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <marker date="1567886641162" expanded="true" signature="44:1265" ph="{...}" />
                 <marker date="1567886641162" expanded="true" signature="73:1263" ph="{...}" />
@@ -129,7 +121,7 @@
                 <marker date="1567886641162" expanded="true" signature="669:747" ph="{...}" />
                 <marker date="1567886641162" expanded="true" signature="771:847" ph="{...}" />
                 <marker date="1567886641162" expanded="true" signature="878:962" ph="{...}" />
-                <marker date="1567886641162" expanded="true" signature="972:1003" ph="/* ... */" />
+                <marker date="1567886641162" expanded="true" signature="972:1003" ph="/* 特性测试 ... */" />
                 <marker date="1567886641162" expanded="true" signature="1084:1157" ph="{...}" />
                 <marker date="1567886641162" expanded="true" signature="1184:1257" ph="{...}" />
               </folding>
@@ -185,7 +177,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -193,34 +184,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="attributes" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="models" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cs-tech-demo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="tech" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,11 +245,12 @@
       <updated>1567878131331</updated>
       <workItem from="1567878134499" duration="6260000" />
       <workItem from="1567885443704" duration="3843000" />
+      <workItem from="1572136717747" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10103000" />
+    <option name="totallyTimeSpent" value="10162000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +267,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49943757" visible="true" weight="0.18079399" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49943757" visible="true" weight="0.18347639" />
       <window_info id="Structure" order="4" sideWeight="0.5005624" weight="0.19152361" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -941,9 +911,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03062.00/Source/ndp/clr/src/BCL/system/reflection/CustomAttributeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cs-tech-demo/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="168">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding>
             <marker date="1567886638907" expanded="true" signature="48:275" ph="{...}" />
@@ -954,16 +931,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03062.00/Source/ndp/clr/src/BCL/system/reflection/CustomAttributeExtensions.cs">
+    <entry file="file://$PROJECT_DIR$/cs-tech-demo/attributes/MyInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="567">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <marker date="1567888887556" expanded="true" signature="15:31" ph="/* 自定义特性 ... */" />
+            <marker date="1567888887556" expanded="true" signature="66:704" ph="{...}" />
+            <marker date="1567888887556" expanded="true" signature="73:196" ph="[...]" />
+            <marker date="1567888887556" expanded="true" signature="232:702" ph="{...}" />
+            <marker date="1567888887556" expanded="true" signature="341:361" ph="{...}" />
+            <marker date="1567888887556" expanded="true" signature="409:487" ph="{...}" />
+            <marker date="1567888887556" expanded="true" signature="515:593" ph="{...}" />
+            <marker date="1567888887556" expanded="true" signature="620:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs-tech-demo/models/UserModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <marker date="1567886641162" expanded="true" signature="44:1265" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="73:1263" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="193:213" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="255:311" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="375:489" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="567:641" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="669:747" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="771:847" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="878:962" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="972:1003" ph="/* 特性测试 ... */" />
+            <marker date="1567886641162" expanded="true" signature="1084:1157" ph="{...}" />
+            <marker date="1567886641162" expanded="true" signature="1184:1257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs-tech-demo/tech/AttributeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <marker date="1567888930409" expanded="false" signature="6:96" ph="..." />
+            <marker date="1567888930409" expanded="true" signature="98:113" ph="/* 特性测试 ... */" />
+            <marker date="1567888930409" expanded="true" signature="141:2050" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="174:1455" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="218:260" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="270:303" ph="/* 测试失效特性 ... */" />
+            <marker date="1567888930409" expanded="true" signature="340:467" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="477:511" ph="/* 测试自定义特性 ... */" />
+            <marker date="1567888930409" expanded="true" signature="548:1449" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1461:1486" ph="/* 应用特性的类 ... */" />
+            <marker date="1567888930409" expanded="true" signature="1504:2048" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1592:1612" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1652:1708" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1739:1823" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1895:1955" ph="{...}" />
+            <marker date="1567888930409" expanded="true" signature="1982:2042" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cs-tech-demo/tech/ReflectionTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
+        <state relative-caret-position="21">
           <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
           <folding>
             <marker date="1567886011708" expanded="false" signature="6:99" ph="..." />
@@ -990,69 +1023,6 @@
             <marker date="1567886011708" expanded="true" signature="3500:3577" ph="/* 实例化泛型集合 ... */" />
             <marker date="1567886011708" expanded="true" signature="3613:4959" ph="{...}" />
             <marker date="1567886011708" expanded="true" signature="4875:4949" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cs-tech-demo/attributes/MyInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding>
-            <marker date="1567888887556" expanded="true" signature="15:31" ph="/* 自定义特性 ... */" />
-            <marker date="1567888887556" expanded="true" signature="66:704" ph="{...}" />
-            <marker date="1567888887556" expanded="true" signature="73:196" ph="[...]" />
-            <marker date="1567888887556" expanded="true" signature="232:702" ph="{...}" />
-            <marker date="1567888887556" expanded="true" signature="341:361" ph="{...}" />
-            <marker date="1567888887556" expanded="true" signature="409:487" ph="{...}" />
-            <marker date="1567888887556" expanded="true" signature="515:593" ph="{...}" />
-            <marker date="1567888887556" expanded="true" signature="620:696" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cs-tech-demo/tech/AttributeTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-341">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding>
-            <marker date="1567888930409" expanded="true" signature="6:96" ph="..." />
-            <marker date="1567888930409" expanded="true" signature="98:113" ph="/* 特性测试 ... */" />
-            <marker date="1567888930409" expanded="true" signature="141:2050" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="174:1455" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="218:260" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="270:303" ph="/* ... */" />
-            <marker date="1567888930409" expanded="true" signature="340:467" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="477:511" ph="/* ... */" />
-            <marker date="1567888930409" expanded="true" signature="548:1449" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1461:1486" ph="/* ... */" />
-            <marker date="1567888930409" expanded="true" signature="1504:2048" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1592:1612" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1652:1708" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1739:1823" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1895:1955" ph="{...}" />
-            <marker date="1567888930409" expanded="true" signature="1982:2042" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cs-tech-demo/models/UserModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <marker date="1567886641162" expanded="true" signature="44:1265" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="73:1263" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="193:213" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="255:311" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="375:489" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="567:641" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="669:747" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="771:847" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="878:962" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="972:1003" ph="/* ... */" />
-            <marker date="1567886641162" expanded="true" signature="1084:1157" ph="{...}" />
-            <marker date="1567886641162" expanded="true" signature="1184:1257" ph="{...}" />
           </folding>
         </state>
       </provider>
